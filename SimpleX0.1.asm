@@ -23,6 +23,9 @@ start:
 
 	text_string db 'Welcome to simpleX! Your easy open source OS!!', 0
 
+text_string db 'Pardon the dust, this is a work in progress. :)', 0
+
+
 
 print_string:			; Routine: output string in SI to screen
 	mov ah, 0Eh		; int 10h 'print char' function
