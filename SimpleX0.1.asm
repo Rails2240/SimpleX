@@ -1,7 +1,7 @@
 ;This code is based on sample code. Anything below that I did not create
 ;is not of mine.
 
-;Sorce Code in memory of Frank Mcallester, rip.
+;Sorce Code in memory of Frank McAllister, rip.
 
 
 
